@@ -13,7 +13,18 @@ __Previews/
 *.WAS
 *.REP
 *.DRR
+*.bak
+*.bac
 
 # Ignore subversion and git system folders
 .svn/
 .git/
+
+# User specific ignores
+Project Outputs*/
+Test Library/
+Altium System Library/
+
+# Ignore everything in AltiumLL except SamacSys.*
+AltiumLL/*
+!AltiumLL/SamacSys.*
