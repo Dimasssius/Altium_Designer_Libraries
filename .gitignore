@@ -1,0 +1,19 @@
+# Altium Designer Library Ignore File
+
+# History/Backup folders
+History/
+__Previews/
+
+# Lock files and temporary files
+*.lck
+*.htm
+*.zip
+*.rar
+*.7z
+*.WAS
+*.REP
+*.DRR
+
+# Ignore subversion and git system folders
+.svn/
+.git/

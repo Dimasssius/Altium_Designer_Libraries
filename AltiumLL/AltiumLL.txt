@@ -1,0 +1,10 @@
+Tj-dude@mail.ru
+S0cY9gmo
+C:\Users\Dimasssius\Documents\Altium Designer Workspace\Altium Designer - Libraries\AltiumLL
+C:\Users\Dimasssius\Documents\Altium Designer Workspace\Altium Designer - Libraries\AltiumLL\SamacSys.SchLib
+C:\Users\Dimasssius\Documents\Altium Designer Workspace\Altium Designer - Libraries\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True
